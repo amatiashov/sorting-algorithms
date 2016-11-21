@@ -15,5 +15,5 @@ public interface Sorter {
      * @param array     неотсартированный входной массив массив
      *
      */
-    void Sort(Integer[] array);
+    void sort(Integer[] array);
 }
